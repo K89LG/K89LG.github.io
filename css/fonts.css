@@ -1,0 +1,9 @@
+@font-face {
+    font-family: 'GOST type B Regular';
+    src: url('../fonts/GOST-2304-81typeB.woff.eot');
+    src: url('../fonts/GOST-2304-81typeB.eot?#iefix') format('embedded-opentype'),
+    url('../fonts/GOST-2304-81typeB.woff') format('woff'),
+    url('../fonts/GOST-2304-81typeB.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+    }
